@@ -13,7 +13,7 @@ i'm 24 years old, studying at ISTU at 11.04.02 "Infocommunication tecnologies". 
 *VS Code   
 *Figma(basic + animations and plugins)   
 ### Code example:
-* Task    
+*Task    
 Implement a function that adds two numbers together and returns their sum in binary. The conversion can be done before, or after the addition.
 The binary number returned should be a string.*
 ```
